@@ -5,4 +5,4 @@ This are the contributors of this project:
 -Adeniyi israel
 - Oladejo Cyber
 - Jane Surname
- - Mira 
+ - Amira Bello
