@@ -1,3 +1,3 @@
-int calculate() {
+double divide() {
   return 6 * 7;
 }
