@@ -6,3 +6,7 @@ int calculate() {
 double squareRoot() {
   return sqrt(16);
 }
+
+double divide() {
+  return 42 / 6;
+}
