@@ -4,6 +4,7 @@ void main(List<String> arguments) {
   print('Hello world: ${dart_practice.divide()}!');
   print('42 divided by 7: ${dart_practice.divide()}!');                                
   print('Hello world: ${dart_practice.calculate()}!');
+  print('Subtract: ${dart_practice.subtract()}!');
   print('5 to the 5th power is: ${dart_practice.power()}!');
   print('Square root of 16 is: ${dart_practice.squareRoot()}');
 }
